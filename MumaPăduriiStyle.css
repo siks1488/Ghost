@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&display=swap');
+body{
+    background-color: black;
+    color:white;
+    font-family: "Platypi", serif;
+}
+.desc{
+    text-align: center;
+    position: absolute;
+    top:60%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.desc p{
+    color: #a5a5a5;
+}
+.desc h1{
+    color:red;
+}
+a{
+    color:red;
+    position: absolute;
+    top:2%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
